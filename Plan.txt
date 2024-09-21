@@ -1,0 +1,4 @@
+Xử lý ảnh/video (oke)
+Convert ảnh + label sang model Input.
+Lấy model vjp (hoặc tự tạo?)
+Kiếm model chuyên phóng đại từ segmentation ảnh mờ sang segmentation ảnh vjp?

@@ -1,0 +1,8 @@
+Finished
+Train_Config
+*.hdf5
+*.mp4
+*.avi
+/Old
+/__pycache__
+/.ipynb_checkpoints
